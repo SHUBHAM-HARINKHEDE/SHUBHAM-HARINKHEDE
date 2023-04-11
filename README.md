@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working @ <i class="ace-icon fa fa-leaf blue"></i>Capgemini Technology and Services India Ltd.
+- 🔭 I’m currently working @ <i class="ace-icon fa fa-leaf blue"></i>Morgan Stanley
 - 🌱 I’m currently learning data science
 - 💬 I'm learning Japanese language
 <!--
